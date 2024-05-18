@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970641443966",
+    "project_id": "dtechnology-3b0a6",
+    "storage_bucket": "dtechnology-3b0a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970641443966:android:301f26bdfadac9a481dc2f",
+        "android_client_info": {
+          "package_name": "com.example.ddtechnology1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtPVr_j51pkGL7SmsWDWUAY-a1PZJt_NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
